@@ -1,5 +1,5 @@
 // import React from "react";
-import { MdOutlineMailOutline } from "react-icons/md";
+import { AiOutlineMail } from "react-icons/ai";
 
 const credibilidad = [
   {
@@ -41,7 +41,7 @@ export const Confiabilidad = () => {
                 {/* Announcing our next round of funding.{' '} */}
                 <a href="#" className="font-semibold flex justify-center items-center gap-2 px-4 text-sm text-[#333333]">
                   <span aria-hidden="true" className="absolute inset-0" />
-                  <MdOutlineMailOutline />
+                  <AiOutlineMail />
 
                  Consultar
                 </a>
